@@ -2,7 +2,7 @@
 **Student name:** Jedidja Mbinga 
 **Student Number:** 224016148
 **Course:** Bachelors Of Computer Science in Software Development
-**Assignment:** Lab 4
+**Assignment:** WAD621S Lab 4
 **GitHub Repository link:** https://github.com/braaMK-hub/student-registration-system 
 ## Overview
 This project implements:
